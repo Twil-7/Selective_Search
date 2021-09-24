@@ -4,7 +4,7 @@
 
 环境配置：skimage、opencv
 
-Selective Search algorithm principle：
+算法流程：
 
 step 1: calculate the first fel_segment region
 

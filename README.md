@@ -3,6 +3,7 @@
 无监督图像聚类分割算法：Selective_Search，是RCNN、Fast RCNN的前半部分
 
 环境配置：skimage、opencv
+直接运行selective_search.py即可
 
 算法流程：
 
